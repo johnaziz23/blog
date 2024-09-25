@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Computer Vision Faces"
+date: 2024-09-25
+---
+
 # CelebA Project—Computer Vision Using Machine Learning
 
 # A Kaggle Project by John Aziz 
