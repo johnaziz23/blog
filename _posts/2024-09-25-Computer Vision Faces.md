@@ -2170,8 +2170,9 @@ for epoch in range(num_epochs):
 model_save_path = '/Users/johnaziz/Downloads/generator.pth'
 torch.save(netG.state_dict(), model_save_path)
 print(f"Model saved to {model_save_path}")
+```
 
-![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/creenshot 2024-09-25 at 19.38.26.png)
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/Screenshot%202024-09-25%20at%2019.38.26.png)
 
 Over the 10 epochs, both the Generator and Discriminator improved significantly. Early in training, the Discriminator could easily distinguish fake from real images (indicated by high Generator loss), but as training progressed, the Generator’s images became more realistic, and the Discriminator found it more challenging to differentiate between the two (indicated by lower Discriminator loss).
 
