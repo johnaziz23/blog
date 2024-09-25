@@ -1681,7 +1681,7 @@ print("Plotting complete.")
 
 
     
-![png](_posts/Computer Vision Faces_files/figure-html/cell-6-output-4.png)
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-6-output-4.png)
     
 
 
@@ -1937,7 +1937,8 @@ plt.show()
 
 
     
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-6.png)
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-6.png)
+
     
 
 
@@ -1946,43 +1947,17 @@ plt.show()
 
 
     
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-8.png)
-    
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-8.png)
 
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-9.png)
 
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-10.png)
 
-    
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-9.png)
-    
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-11.png)
 
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-12.png)
 
-
-    
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-9.png)
-    
-
-
-
-    
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-10.png)
-    
-
-
-
-    
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-11.png)
-    
-
-
-
-    
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-12.png)
-    
-
-
-
-    
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-13.png)
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-13.png)
     
 
 
@@ -2928,7 +2903,7 @@ generate_faces(netG, num_images=16, noise_dim=100, device=torch.device('cpu'), u
 
 
     
-![png](_posts/Computer Vision Faces_files/figure-html/cell-9-output-2.png)
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-9-output-2.png)
     
 
 
