@@ -1681,7 +1681,7 @@ print("Plotting complete.")
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_9_3.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-3.png)
     
 
 
@@ -1909,7 +1909,7 @@ plt.show()
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_3.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-3.png)
     
 
 
@@ -1937,7 +1937,7 @@ plt.show()
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_5.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-5.png)
     
 
 
@@ -1946,43 +1946,43 @@ plt.show()
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_7.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-7.png)
     
 
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_8.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-8.png)
     
 
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_9.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-9.png)
     
 
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_10.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-10.png)
     
 
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_11.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-11.png)
     
 
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_12.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-12.png)
     
 
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_11_13.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-13.png)
     
 
 
@@ -2928,7 +2928,7 @@ generate_faces(netG, num_images=16, noise_dim=100, device=torch.device('cpu'), u
 
 
     
-![png](Computer%20Vision%20Faces_files/Computer%20Vision%20Faces_15_1.png)
+![png](Computer%20Vision%20Faces_files/figure-html/cell-6-output-15.png)
     
 
 
