@@ -2171,7 +2171,7 @@ model_save_path = '/Users/johnaziz/Downloads/generator.pth'
 torch.save(netG.state_dict(), model_save_path)
 print(f"Model saved to {model_save_path}")
 
-![Training Loss Graph](_posts/Computer%20Vision%20Faces_files/figure-html/Screenshot%202024-09-25%20at%2016.20.56.png)
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/Screenshot%202024-09-25%20at%2016.20.56.png)
 
 Over the 10 epochs, both the Generator and Discriminator improved significantly. Early in training, the Discriminator could easily distinguish fake from real images (indicated by high Generator loss), but as training progressed, the Generator’s images became more realistic, and the Discriminator found it more challenging to differentiate between the two (indicated by lower Discriminator loss).
 
@@ -2230,18 +2230,8 @@ netG.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
 print(f"Generator model loaded from {model_path}")
 
 # Generate 16 faces with 4x upscaling (e.g., 32x32 -> 128x128)
-generate_faces(netG, num_images=16, noise_dim=100, device=torch.device('cpu'), upscale_factor=4)
-
-
-```
-
-    Generator model loaded from /Users/johnaziz/Downloads/generator.pth
-
-
-
+generate_faces(netG, num_images=16, noise_dim=100, device=torch.device('cpu'), upscale_factor=4)'''
     
 ![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-9-output-2.png)
-    
-
 
 The model has converged, and it is producing faces, although the quality is more like a horror movie. However as a proof of concept and a basis to iterate upon, the model is working.
