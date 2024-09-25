@@ -10,5 +10,5 @@ Welcome to my blog! Here are my posts:
   ## [{{ post.title }}]({{ post.url }})  
   **Published on:** {{ post.date | date: "%B %d, %Y" }}
 
-  {{ post.excerpt }}
+  {{ post.content | markdownify }}
 {% endfor %}
