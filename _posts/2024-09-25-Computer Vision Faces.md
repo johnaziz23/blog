@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computer Vision Faces"
+title: "Computer Vision Experiments Using Machine Learning"
 date: 2024-09-25
 ---
 
