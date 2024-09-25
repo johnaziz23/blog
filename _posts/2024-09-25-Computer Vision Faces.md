@@ -1909,7 +1909,7 @@ plt.show()
 
 
     
-![png](_posts/Computer Vision Faces_files/figure-html/cell-7-output-4.png)
+![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-7-output-4.png)
     
 
 
