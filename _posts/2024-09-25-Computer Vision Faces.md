@@ -2231,7 +2231,8 @@ netG.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
 print(f"Generator model loaded from {model_path}")
 
 # Generate 16 faces with 4x upscaling (e.g., 32x32 -> 128x128)
-generate_faces(netG, num_images=16, noise_dim=100, device=torch.device('cpu'), upscale_factor=4)'''
+generate_faces(netG, num_images=16, noise_dim=100, device=torch.device('cpu'), upscale_factor=4)
+```
     
 ![png](https://raw.githubusercontent.com/johnaziz23/blog/main/_posts/Computer%20Vision%20Faces_files/figure-html/cell-9-output-2.png)
 
