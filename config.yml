@@ -1,4 +1,5 @@
-title: "My Blog"
+title: "John's Blog"
+theme: minima  
 output:
   html_document:
     toc: true
