@@ -2,10 +2,13 @@
 title: "Welcome to My Blog"
 ---
 
-# John Aziz's Code Blog
+# My Blog
 
-Welcome to my blog! Below are my most-recent posts:
+Welcome to my blog! Here are my posts:
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
+  ## [{{ post.title }}]({{ post.url }})  
+  **Published on:** {{ post.date | date: "%B %d, %Y" }}
+
+  {{ post.excerpt }}
 {% endfor %}
