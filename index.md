@@ -2,9 +2,9 @@
 title: "Welcome to My Blog"
 ---
 
-# My Blog
+# John Aziz's Code Blog
 
-Welcome to my blog! Here are my posts:
+Welcome to my blog! Below are my most-recent posts:
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
