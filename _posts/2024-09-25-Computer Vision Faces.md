@@ -10,7 +10,7 @@ date: 2024-09-25
 
 This is a personal data science project. I graduated in July 2024 with a Bachelor's degree in Data Science, and since then I have been building some projects with the intent of improving my skills and being able to secure a job.
 
-I am using a dataset here for machine learning that I obtained from Kaggle—https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+I am using a dataset here for machine learning that I obtained from Kaggle— https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 
 Relevant features of the dataset listed on Kaggle:
 
